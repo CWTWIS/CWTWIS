@@ -11,7 +11,7 @@ I'm a soon-to-be graduate of the Master of Information Technology at The Univers
 - 🩺 Bachelor of **Biomedical Engineering** (First Class Honours) @ Mahidol University
 - 🥽 Previously interned as a Software Developer at **Virtetic**, building Mixed Reality rehab experiences in Unity
 - 🧪 Currently a Test Technician at **MX3 Diagnostics**, working on firmware validation for medical devices
-- 🌱 Interested in software engineering, digital health, and full-stack development
+- 🌱 Interested in software development, digital health, and full-stack development
 - ⚡ Fun fact: I've volunteered at more gaming conventions than I can count — comic cons, game expos, you name it!
 
 ---
