@@ -7,7 +7,7 @@
 
 I'm a soon-to-be graduate of the Master of Information Technology at The University of Melbourne (graduating Aug 2026), with a background in Biomedical Engineering from Mahidol University. I made the jump from biomedical engineering into software engineering because I love building things — and I especially love building things that make people's lives a little better.
 
-- 🎓 Currently finishing my **Master of IT** specialisatio in Computing (Second Class Honours) @ University of Melbourne
+- 🎓 Currently finishing my **Master of IT** specialisation in Computing (Second Class Honours) @ University of Melbourne
 - 🩺 Bachelor of **Biomedical Engineering** (First Class Honours) @ Mahidol University
 - 🥽 Previously interned as a Software Developer at **Virtetic**, building Mixed Reality rehab experiences in Unity
 - 🧪 Currently a Test Technician at **MX3 Diagnostics**, working on firmware validation for medical devices
