@@ -12,7 +12,7 @@ I'm a soon-to-be graduate of the Master of Information Technology at The Univers
 - 🥽 Previously interned as a Software Developer at **Virtetic**, building Mixed Reality rehab experiences in Unity
 - 🧪 Currently a Test Technician at **MX3 Diagnostics**, working on firmware validation for medical devices
 - 🌱 Interested in software development, digital health, and full-stack development
-- 😄 Hobby: Drawing & Painting, Photography, Bird Watching, and Volunteering
+- 😄 Hobby: drawing & painting, photography, bird Watching, and volunteering
 
 ---
 
